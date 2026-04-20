@@ -38,6 +38,7 @@
 | [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | ![](https://img.shields.io/github/stars/AIDC-AI/Pixelle-Video?style=flat-square) | ⭐ B | Fully automated AI short video engine — end-to-end generation pipeline |
 | [short-video-factory](https://github.com/YILS-LIN/short-video-factory) | ![](https://img.shields.io/github/stars/YILS-LIN/short-video-factory?style=flat-square) | ⭐ B | One-click product marketing short video generator |
 | [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) | ![](https://img.shields.io/github/stars/Norsico/Video-Materials-AutoGEN-Workstation?style=flat-square) | ⭐ C | Short video generation workstation with material auto-sourcing |
+| [OpenMontage](https://github.com/calesthio/OpenMontage) | ![](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square) | ⭐ A | Agentic open-source video production system — research, scripting, asset generation, timeline editing, and final render from plain-language prompts |
 
 ## AI Text-to-Video Models
 
@@ -57,6 +58,9 @@
 | [Postiz](https://github.com/gitroomhq/postiz-app) | ![](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square) | ⭐ A | Open-source social media scheduling — alternative to Buffer/Hootsuite |
 | [social-auto-upload](https://github.com/dreammis/social-auto-upload) | ![](https://img.shields.io/github/stars/dreammis/social-auto-upload?style=flat-square) | ⭐ B | Auto-upload videos to Douyin, TikTok, Bilibili, Kuaishou, Xiaohongshu |
 | [video-mover](https://github.com/toki-plus/video-mover) | ![](https://img.shields.io/github/stars/toki-plus/video-mover?style=flat-square) | ⭐ C | Fully automated short video cross-platform reposting tool |
+| [BrightBean Studio](https://github.com/brightbeanxyz/brightbean-studio) | ![](https://img.shields.io/github/stars/brightbeanxyz/brightbean-studio?style=flat-square) | ⭐ A | Self-hosted social media management platform for creators and agencies — scheduling, approval, publishing, analytics, and multi-workspace collaboration across 10+ platforms |
+| [YTB2BILI](https://github.com/difyz9/ytb2bili) | ![](https://img.shields.io/github/stars/difyz9/ytb2bili?style=flat-square) | ⭐ B | End-to-end YouTube/TikTok to Bilibili reposting pipeline with auto download, Whisper subtitles, AI translation, metadata generation, scheduling, and web dashboard |
+| [PostBot](https://github.com/gitcoffee-os/postbot) | ![](https://img.shields.io/github/stars/gitcoffee-os/postbot?style=flat-square) | ⭐ B | Multi-platform content sync assistant for articles, notes, images, video, and audio across major Chinese and international publishing platforms |
 
 ## Social Media Crawlers
 
@@ -73,6 +77,7 @@
 | [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) | ![](https://img.shields.io/github/stars/YaoFANGUK/video-subtitle-remover?style=flat-square) | ⭐ A | AI-powered hard subtitle and watermark removal from videos |
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | ![](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=flat-square) | ⭐ A | 4x faster Whisper for transcription and subtitle generation |
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=flat-square) | ⭐ A | High-performance C/C++ port of Whisper — runs on CPU and Apple Silicon |
+| [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | ![](https://img.shields.io/github/stars/WEIFENG2333/VideoCaptioner?style=flat-square) | ⭐ A | LLM-powered subtitle workstation with ASR, sentence resegmentation, subtitle correction, translation, burn-in, GUI/CLI apps, and tests |
 
 ## AI Short Drama Generation
 
@@ -80,6 +85,8 @@
 |---------|-------|-------|-------------|
 | [huobao-drama](https://github.com/chatfire-AI/huobao-drama) | ![](https://img.shields.io/github/stars/chatfire-AI/huobao-drama?style=flat-square) | ⭐ A | Generate complete short dramas from a single sentence prompt |
 | [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | ![](https://img.shields.io/github/stars/HBAI-Ltd/Toonflow-app?style=flat-square) | ⭐ A | AI short drama and comic strip generator |
+| [ArcReel](https://github.com/ArcReel/ArcReel) | ![](https://img.shields.io/github/stars/ArcReel/ArcReel?style=flat-square) | ⭐ A | Open-source AI video workspace for turning novels and story ideas into scripts, storyboards, assets, and short-form videos with agent orchestration |
+| [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) | ![](https://img.shields.io/github/stars/xuanyustudio/LocalMiniDrama?style=flat-square) | ⭐ B | Local-first AI short drama and comic creation tool — downloadable app, offline-friendly workflow, and fully open-source JavaScript stack |
 
 ## AI Video Analysis and Notes
 
@@ -87,6 +94,7 @@
 |---------|-------|-------|-------------|
 | [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) | ![](https://img.shields.io/github/stars/JimmyLv/BibiGPT-v1?style=flat-square) | ⭐ A | One-click AI video summary — supports Bilibili, YouTube, podcasts |
 | [BiliNote](https://github.com/JefferyHcool/BiliNote) | ![](https://img.shields.io/github/stars/JefferyHcool/BiliNote?style=flat-square) | ⭐ A | AI-powered video note generation from Bilibili and other platforms |
+| [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) | ![](https://img.shields.io/github/stars/hanshuaikang/AI-Media2Doc?style=flat-square) | ⭐ A | Turn audio/video into Xiaohongshu posts, public-account articles, mind maps, notes, summaries, subtitles, and screenshot-rich documents |
 
 ## AI Digital Human
 
