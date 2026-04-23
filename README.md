@@ -39,6 +39,7 @@
 | [short-video-factory](https://github.com/YILS-LIN/short-video-factory) | ![](https://img.shields.io/github/stars/YILS-LIN/short-video-factory?style=flat-square) | ⭐ B | One-click product marketing short video generator |
 | [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) | ![](https://img.shields.io/github/stars/Norsico/Video-Materials-AutoGEN-Workstation?style=flat-square) | ⭐ C | Short video generation workstation with material auto-sourcing |
 | [OpenMontage](https://github.com/calesthio/OpenMontage) | ![](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square) | ⭐ A | Agentic open-source video production system — research, scripting, asset generation, timeline editing, and final render from plain-language prompts |
+| [YumCut](https://github.com/IgorShadurin/app.yumcut.com) | ![](https://img.shields.io/github/stars/IgorShadurin/app.yumcut.com?style=flat-square) | ⭐ B | Self-hosted AI short-video generator for TikTok, YouTube Shorts, and Reels — turns prompts into scripts, scenes, voiceover, captions, and finished 9:16 videos with batch rendering and API hooks |
 
 ## AI Text-to-Video Models
 
@@ -49,6 +50,7 @@
 | [FramePack](https://github.com/lllyasviel/FramePack) | ![](https://img.shields.io/github/stars/lllyasviel/FramePack?style=flat-square) | ⭐ A | Video generation with fixed GPU memory regardless of length — consumer GPU friendly |
 | [CogVideo](https://github.com/THUDM/CogVideo) | ![](https://img.shields.io/github/stars/THUDM/CogVideo?style=flat-square) | ⭐ A | Tsinghua text-to-video diffusion model — 2B/5B variants |
 | [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) | ![](https://img.shields.io/github/stars/Tencent/HunyuanVideo?style=flat-square) | ⭐ B | Tencent's large-scale open video generation model |
+| [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) | ![](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-1.5?style=flat-square) | ⭐ A | Tencent's lightweight 8.3B video generation model with consumer-GPU inference, open weights, training/inference code, ComfyUI support, and prompt handbooks |
 | [AnimateDiff](https://github.com/guoyww/AnimateDiff) | ![](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=flat-square) | ⭐ B | Animate personalized text-to-image models into video clips |
 
 ## Social Media Automation
@@ -78,6 +80,7 @@
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | ![](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=flat-square) | ⭐ A | 4x faster Whisper for transcription and subtitle generation |
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=flat-square) | ⭐ A | High-performance C/C++ port of Whisper — runs on CPU and Apple Silicon |
 | [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | ![](https://img.shields.io/github/stars/WEIFENG2333/VideoCaptioner?style=flat-square) | ⭐ A | LLM-powered subtitle workstation with ASR, sentence resegmentation, subtitle correction, translation, burn-in, GUI/CLI apps, and tests |
+| [Open-Lyrics](https://github.com/zh-plus/Open-Lyrics) | ![](https://img.shields.io/github/stars/zh-plus/Open-Lyrics?style=flat-square) | ⭐ B | Python subtitle pipeline that transcribes with Whisper, then translates/polishes into `.lrc` subtitles using LLMs. Includes audio preprocessing, glossary support, bilingual output, tests, and PyPI packaging |
 
 ## AI Short Drama Generation
 
