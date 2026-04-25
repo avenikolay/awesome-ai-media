@@ -64,6 +64,7 @@
 | [YTB2BILI](https://github.com/difyz9/ytb2bili) | ![](https://img.shields.io/github/stars/difyz9/ytb2bili?style=flat-square) | ⭐ B | End-to-end YouTube/TikTok to Bilibili reposting pipeline with auto download, Whisper subtitles, AI translation, metadata generation, scheduling, and web dashboard |
 | [PostBot](https://github.com/gitcoffee-os/postbot) | ![](https://img.shields.io/github/stars/gitcoffee-os/postbot?style=flat-square) | ⭐ B | Multi-platform content sync assistant for articles, notes, images, video, and audio across major Chinese and international publishing platforms |
 | [social-media-kit](https://github.com/terrytangyuan/social-media-kit) | ![](https://img.shields.io/github/stars/terrytangyuan/social-media-kit?style=flat-square) | ⭐ B | Self-hosted social media composer and direct publisher for LinkedIn, X, Bluesky, and Mastodon, with OAuth setup, formatting helpers, reminders, and Docker deployment. |
+| [Post4U](https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts) | ![](https://img.shields.io/github/stars/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts?style=flat-square) | ⭐ B | Self-hosted cross-posting dashboard for X, Reddit, Telegram, Discord, and Bluesky with scheduling, previews, media uploads, and an API-first FastAPI backend. |
 
 ## Social Media Crawlers
 
@@ -82,6 +83,7 @@
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=flat-square) | ⭐ A | High-performance C/C++ port of Whisper — runs on CPU and Apple Silicon |
 | [whisperX](https://github.com/m-bain/whisperX) | ![](https://img.shields.io/github/stars/m-bain/whisperX?style=flat-square) | ⭐ A | Whisper-based transcription tool with word-level timestamps, forced alignment, diarization, PyPI/uv installs, and fast batched inference for subtitle workflows. |
 | [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | ![](https://img.shields.io/github/stars/WEIFENG2333/VideoCaptioner?style=flat-square) | ⭐ A | LLM-powered subtitle workstation with ASR, sentence resegmentation, subtitle correction, translation, burn-in, GUI/CLI apps, and tests |
+| [ArcSub](https://github.com/brucexuego/ArcSub) | ![](https://img.shields.io/github/stars/brucexuego/ArcSub?style=flat-square) | ⭐ B | Local-first subtitle workstation for media download, speech recognition, translation, review, styling, and multi-format export with packaged releases and docs. |
 | [Open-Lyrics](https://github.com/zh-plus/Open-Lyrics) | ![](https://img.shields.io/github/stars/zh-plus/Open-Lyrics?style=flat-square) | ⭐ B | Python subtitle pipeline that transcribes with Whisper, then translates/polishes into `.lrc` subtitles using LLMs. Includes audio preprocessing, glossary support, bilingual output, tests, and PyPI packaging |
 
 ## AI Short Drama Generation
