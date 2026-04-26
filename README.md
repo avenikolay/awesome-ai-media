@@ -40,6 +40,7 @@
 | [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) | ![](https://img.shields.io/github/stars/Norsico/Video-Materials-AutoGEN-Workstation?style=flat-square) | ⭐ C | Short video generation workstation with material auto-sourcing |
 | [OpenMontage](https://github.com/calesthio/OpenMontage) | ![](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square) | ⭐ A | Agentic open-source video production system — research, scripting, asset generation, timeline editing, and final render from plain-language prompts |
 | [YumCut](https://github.com/IgorShadurin/app.yumcut.com) | ![](https://img.shields.io/github/stars/IgorShadurin/app.yumcut.com?style=flat-square) | ⭐ B | Self-hosted AI short-video generator for TikTok, YouTube Shorts, and Reels — turns prompts into scripts, scenes, voiceover, captions, and finished 9:16 videos with batch rendering and API hooks |
+| [AI YouTube Shorts Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) | ![](https://img.shields.io/github/stars/SamurAIGPT/AI-Youtube-Shorts-Generator?style=flat-square) | ⭐ A- | AI clipping tool that turns long-form YouTube videos into Shorts/TikTok/Reels-ready vertical clips using LLM highlight ranking, local Whisper transcription, smart dedupe, and automatic cropping. |
 
 ## AI Text-to-Video Models
 
@@ -85,6 +86,8 @@
 | [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | ![](https://img.shields.io/github/stars/WEIFENG2333/VideoCaptioner?style=flat-square) | ⭐ A | LLM-powered subtitle workstation with ASR, sentence resegmentation, subtitle correction, translation, burn-in, GUI/CLI apps, and tests |
 | [ArcSub](https://github.com/brucexuego/ArcSub) | ![](https://img.shields.io/github/stars/brucexuego/ArcSub?style=flat-square) | ⭐ B | Local-first subtitle workstation for media download, speech recognition, translation, review, styling, and multi-format export with packaged releases and docs. |
 | [Open-Lyrics](https://github.com/zh-plus/Open-Lyrics) | ![](https://img.shields.io/github/stars/zh-plus/Open-Lyrics?style=flat-square) | ⭐ B | Python subtitle pipeline that transcribes with Whisper, then translates/polishes into `.lrc` subtitles using LLMs. Includes audio preprocessing, glossary support, bilingual output, tests, and PyPI packaging |
+| [open-dubbing](https://github.com/softcatala/open-dubbing) | ![](https://img.shields.io/github/stars/softcatala/open-dubbing?style=flat-square) | ⭐ B- | Experimental but usable local dubbing CLI that combines Whisper, translation engines, and multiple TTS backends to translate and synchronize spoken audio into new languages. |
+| [LiveTranslate](https://github.com/TheDeathDragon/LiveTranslate) | ![](https://img.shields.io/github/stars/TheDeathDragon/LiveTranslate?style=flat-square) | ⭐ B | Windows real-time audio translation overlay for videos, livestreams, and voice chat, with faster-whisper / SenseVoice ASR, OpenAI-compatible translation APIs, and streaming subtitle display. |
 
 ## AI Short Drama Generation
 
