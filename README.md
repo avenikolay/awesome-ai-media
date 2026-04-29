@@ -59,6 +59,7 @@
 | Project | Stars | Grade | Description |
 |---------|-------|-------|-------------|
 | [Postiz](https://github.com/gitroomhq/postiz-app) | ![](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square) | ⭐ A | Open-source social media scheduling — alternative to Buffer/Hootsuite |
+| [TryPost](https://github.com/trypost-it/trypost) | ![](https://img.shields.io/github/stars/trypost-it/trypost?style=flat-square) | ⭐ B | Self-hosted social media scheduling platform for creators and teams, with Laravel + Vue stack, multi-network publishing, docs, releases, and roadmap-driven development. |
 | [social-auto-upload](https://github.com/dreammis/social-auto-upload) | ![](https://img.shields.io/github/stars/dreammis/social-auto-upload?style=flat-square) | ⭐ B | Auto-upload videos to Douyin, TikTok, Bilibili, Kuaishou, Xiaohongshu |
 | [video-mover](https://github.com/toki-plus/video-mover) | ![](https://img.shields.io/github/stars/toki-plus/video-mover?style=flat-square) | ⭐ C | Fully automated short video cross-platform reposting tool |
 | [BrightBean Studio](https://github.com/brightbeanxyz/brightbean-studio) | ![](https://img.shields.io/github/stars/brightbeanxyz/brightbean-studio?style=flat-square) | ⭐ A | Self-hosted social media management platform for creators and agencies — scheduling, approval, publishing, analytics, and multi-workspace collaboration across 10+ platforms |
@@ -72,6 +73,7 @@
 | Project | Stars | Grade | Description |
 |---------|-------|-------|-------------|
 | [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | ![](https://img.shields.io/github/stars/NanmiCoder/MediaCrawler?style=flat-square) | ⭐ A | Crawler for Xiaohongshu, Douyin, Kuaishou, Bilibili, and Weibo |
+| [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) | ![](https://img.shields.io/github/stars/zerodytrash/TikTok-Live-Connector?style=flat-square) | ⭐ B | Node.js library for real-time TikTok LIVE events such as comments, gifts, and member activity — useful for creator analytics, moderation bots, and livestream automations. |
 
 ## Subtitle and Localization
 
@@ -83,6 +85,7 @@
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | ![](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=flat-square) | ⭐ A | 4x faster Whisper for transcription and subtitle generation |
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=flat-square) | ⭐ A | High-performance C/C++ port of Whisper — runs on CPU and Apple Silicon |
 | [whisperX](https://github.com/m-bain/whisperX) | ![](https://img.shields.io/github/stars/m-bain/whisperX?style=flat-square) | ⭐ A | Whisper-based transcription tool with word-level timestamps, forced alignment, diarization, PyPI/uv installs, and fast batched inference for subtitle workflows. |
+| [WhisperLive](https://github.com/collabora/WhisperLive) | ![](https://img.shields.io/github/stars/collabora/WhisperLive?style=flat-square) | ⭐ A- | Real-time Whisper transcription stack with streaming server/client modes, Docker deployment, browser extensions, and translation-friendly pipelines for live subtitles and captioning workflows. |
 | [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | ![](https://img.shields.io/github/stars/WEIFENG2333/VideoCaptioner?style=flat-square) | ⭐ A | LLM-powered subtitle workstation with ASR, sentence resegmentation, subtitle correction, translation, burn-in, GUI/CLI apps, and tests |
 | [ArcSub](https://github.com/brucexuego/ArcSub) | ![](https://img.shields.io/github/stars/brucexuego/ArcSub?style=flat-square) | ⭐ B | Local-first subtitle workstation for media download, speech recognition, translation, review, styling, and multi-format export with packaged releases and docs. |
 | [Open-Lyrics](https://github.com/zh-plus/Open-Lyrics) | ![](https://img.shields.io/github/stars/zh-plus/Open-Lyrics?style=flat-square) | ⭐ B | Python subtitle pipeline that transcribes with Whisper, then translates/polishes into `.lrc` subtitles using LLMs. Includes audio preprocessing, glossary support, bilingual output, tests, and PyPI packaging |
